@@ -1,6 +1,11 @@
-# 📋 Sistema de Tarefas com Firebase
+# ⚡ Realtime Task Manager (Firebase Version)
 
-Aplicação web de gerenciamento de tarefas (To-Do List) com persistência em tempo real utilizando Firebase.
+
+## 🚀 Main Project
+https://github.com/robson-arcelino/taskflow-fullstack
+
+Fullstack task management web application with real-time data persistence using Firebase.
+
 
 ---
 
