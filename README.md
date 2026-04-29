@@ -1,37 +1,36 @@
-# ⚡ Realtime Task Manager (Firebase Version)
+# 🚀 Real-Time Task Manager
 
+Aplicação web para gerenciamento de tarefas em tempo real, com sincronização instantânea entre usuários.
 
-## 🚀 Main Project
-https://github.com/robson-arcelino/taskflow-fullstack
-
-Fullstack task management web application with real-time data persistence using Firebase.
-
+## 🧠 Sobre o projeto
+Projeto desenvolvido para praticar conceitos de front-end moderno e integração com APIs em tempo real utilizando Firebase.
 
 ---
 
-## 🚀 Tecnologias utilizadas
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
-- Firebase Realtime Database  
-- Vercel (deploy)
+## 🔥 Funcionalidades
+- ✅ Criar tarefas
+- 🔄 Atualização em tempo real
+- ✏️ Editar tarefas
+- ❌ Deletar tarefas
 
 ---
 
-## 🎯 Funcionalidades
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+- Firebase (Realtime Database)
 
-- ✅ Adicionar tarefas  
-- 📋 Listar tarefas em tempo real  
-- ❌ Remover tarefas  
-- ☁️ Armazenamento no Firebase  
+---
+
+## 📷 Preview
+![Preview do projeto](frontend/assets/preview.png)
 
 ---
 
 ## 🌐 Acesse o projeto
-
-👉 https://projeto-75u24.vercel.app
+👉 https://SEU-LINK-AQUI
 
 ---
 
-## 📂 Estrutura do projeto
+## 📁 Estrutura
