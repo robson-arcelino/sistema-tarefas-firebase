@@ -24,7 +24,7 @@ Projeto desenvolvido para praticar conceitos de front-end moderno e integração
 ---
 
 ## 📷 Preview
-![Preview do projeto](frontend/assets/preview.png)
+![Preview do projeto](assets/preview.png)
 
 ---
 
